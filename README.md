@@ -1,1 +1,1 @@
-Create Simple Pagingnation With PHP Native - Kurstudio
+Create Simple Pagination With PHP Native - Kurstudio
